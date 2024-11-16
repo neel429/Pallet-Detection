@@ -1,6 +1,6 @@
 # YOLOv11 Object Detection Pipeline
 
-This project demonstrates the development of an object detection pipeline, from data annotation to model training and optimization for deployment.
+This project demonstrates the development of an Pallets detection pipeline, from data annotation to model training and optimization for deployment.
 
 ---
 
